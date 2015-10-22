@@ -1,0 +1,263 @@
+h1 {
+	font-family: "special elite";
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+}
+
+header .background {
+	background: url(lac.jpg) no-repeat center center;
+	height:auto;
+	width: auto;
+	background-size: cover;
+}
+
+#lac {
+	height: 100%;
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+.col-md-12 {
+	padding:0;
+}
+
+.nav {
+display:inline-block;
+margin-left:4%;
+margin-right: 4%;
+}
+
+li .a {
+	margin-right: 50px;
+	margin-left:50px;
+}
+
+h3 {
+	font-family: "amatic sc";
+	font-size: 320%;
+	margin:0;
+	position:relative;
+	text-align: center;
+	padding:3%;
+}
+
+#typoaccueil {
+	color:#a7a689;
+}
+
+#typoseloger {
+	color:#ba8e93;	
+}
+
+#typooumanger {
+	color:#70938c;	
+}
+
+#typolesimmanquables {
+	color:#a69014;	
+}
+
+#typolespieges {
+	color:#5dba90;	
+}
+
+.parent {
+  background: url(images/sequoia.jpg) no-repeat center center;
+  height: 250px;
+  width: 250px;
+  margin: 3%;
+  margin-left:0;
+}
+
+.hidden-box {
+  display: none;
+  height: 250px;
+}
+
+.parent:hover .hidden-box {
+  display: block;
+}
+
+img.marion {
+  height: 250px;
+  width: 250px;
+}
+
+p {
+	padding-left: 30px;
+	padding-bottom: 15px; 
+	padding-right: 30px;
+	padding-top: 15px;
+}
+
+body {
+	background-color: #F0FFFF;
+	font-family: vollkorn;
+	font-size: 20px;
+}
+
+a:hover {
+opacity: 0.8;
+color: grey;
+}
+
+a:visited {
+color: black;
+}
+
+span {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.subtitle {
+  margin: 0 0 2em 0;
+}
+.ff {
+  line-height: 0.5;
+  text-align: center;
+}
+.ff span {
+  display: inline-block;
+  position: relative;  
+}
+.ff span:before,
+.ff span:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  top: 0;
+  width: 100%;
+}
+.ff span:before {
+  right: 100%;
+  margin-right: 10%;
+}
+.ff span:after {
+  left: 100%;
+  margin-left: 10%;
+}
+
+.sf, .hollywood, .sequoia {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#bordure {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: black;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+	padding:0px;
+}
+
+#hollywood, #sanfrancisco, #sequoia {
+	padding :15px;
+	height: 100%;
+	width: 100%;
+	border-radius: 15% 0 0 0;
+	-webkit-filter: grayscale(1);
+}
+
+
+.navbar-nav>li>a {
+padding-left:37px;
+}
+
+ul, ol {
+	margin:0;
+	list-style-type: none;
+}
+
+ol, p {
+	margin:0;
+
+}
+
+.footer li {
+display:inline-block;
+margin-left: 170px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+
+
+.background1 {
+	background-image: url(images/accueil1.png);
+	background-repeat: no-repeat;
+	margin-left:3%;
+
+}
+
+#imgseloger {
+	height: 100%;
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+#se-loger {
+	background-color:#f3c0c5;
+}
+
+#imgoumanger {
+	height: 100%;
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+#ou-manger {
+	background-color:#afded4;
+}
+
+#imglespieges {
+	height: 100%;
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+#les-pieges {
+	background-color:#84fdc8;
+}
+
+#imgimmanquables {
+	height: 100%;
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+#les-immanquables {
+	background-color:#ffed87;
+}
+
+#accueil {
+	background-color: #e6e5c6;
+}
+
+#ba {
+	text-align: center;
+}
+
+
+.container-fluid {
+	padding-right: 0; 
+	padding-left:0;
+}
+
+
