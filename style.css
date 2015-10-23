@@ -202,164 +202,51 @@ margin-bottom: 10px;
 
 }
 
-
-@media (max-width:320px) {  /*small mobile*/
-  #imgseloger {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:321px) and (max-width:959px) {  /*tablet*/
-  #imgseloger {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:960px) and (max-width:1599px) {  /*desktop*/
-  #imgseloger {
-	padding:0;
-	margin:0;
-	height:auto;
-	width: auto;
-  }
-}
-@media (min-width:1600px) {  /*desktop and tv*/
-  #imgseloger {
-	height: 100%;
-	width: 100%;
-	padding:0;
-	margin:0;
-  }
-}
-
-
 #se-loger {
-	background-color:#f3c0c5;
+	background: url(images/seloger1.png) no-repeat center left;
+	background-size: cover;
 }
 
-
-@media (max-width:320px) {  /*small mobile*/
-  #imgoumanger {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:321px) and (max-width:959px) {  /*tablet*/
-  #imgoumanger {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:960px) and (max-width:1599px) {  /*desktop*/
-  #imgoumanger {
-	height: 100%;
-	width: ;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:1600px) {  /*desktop and tv*/
-  #imgoumanger {
-	height: 100%;
-	width: 100%;
-	padding:0;
-	margin:0;
-  }
+.inner-text {
+		background-color:#f3c0c5;
 }
 
 #ou-manger {
-	background-color:#afded4;
+	background: url(images/oumanger1.png) no-repeat center left;
+	background-size: cover;
 }
 
-@media (max-width:320px) {  /*small mobile*/
-  #imglespieges {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:321px) and (max-width:959px) {  /*tablet*/
-  #imglespieges {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:960px) and (max-width:1599px) {  /*desktop*/
-  #imglespieges {
-	height: 100%;
-	width: ;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:1600px) {  /*desktop and tv*/
-  #imglespieges {
-	height: 100%;
-	width: 100%;
-	padding:0;
-	margin:0;
-  }
+.inter-text {
+		background-color:#afded4;
 }
 
 #les-pieges {
+	background-image: url(images/lespieges1.png) no no-repeat center left;
+	background-size: cover;
+}
+
+
+
+.extra-texte {
 	background-color:#84fdc8;
 }
 
-@media (max-width:320px) {  /*small mobile*/
-  #imgimmanquables {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:321px) and (max-width:959px) {  /*tablet*/
-  #imgimmanquables {
-	height: 0;
-	width: 0;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:960px) and (max-width:1599px) {  /*desktop*/
-  #imgimmanquables {
-	height: 100%;
-	width: ;
-	padding:0;
-	margin:0;
-  }
-}
-@media (min-width:1600px) {  /*desktop and tv*/
-  #imgimmanquables {
-	height: 100%;
-	width: 100%;
-	padding:0;
-	margin:0;
-  }
+
+
+.intra-text {
+		background-color:#e6e5c6;
 }
 
+
 #les-immanquables {
-	background-color:#ffed87;
+	background: url(images/immanquables1.png) no-repeat center left;
+	background-size: cover;
 }
 
 #accueil {
 	background-color: #e6e5c6;
 }
 
-#ba {
-	text-align: center;
-}
 
 
 .container-fluid {
@@ -372,4 +259,9 @@ margin-bottom: 10px;
 
 .hidden {
 	display:none;
+}
+
+.aside-picture {
+	width: auto;
+	height: 100%;
 }
