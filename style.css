@@ -75,7 +75,7 @@ h3 {
 }
 
 .parent {
-  background: url(images/sequoia.jpg) no-repeat center center;
+  background: url(images/sequoia1.png) no-repeat center center;
   height: 250px;
   width: 250px;
   margin: 3%;
@@ -223,18 +223,6 @@ margin-bottom: 10px;
 		background-color:#afded4;
 }
 
-#les-pieges {
-	background-image: url(images/lespieges1.png) no no-repeat center left;
-	background-size: cover;
-}
-
-
-
-.extra-texte {
-	background-color:#84fdc8;
-}
-
-
 
 .intra-text {
 		background-color:#FFFF99;
@@ -246,14 +234,24 @@ margin-bottom: 10px;
 	background-size: cover;
 }
 
-.innat-text {
-	background-color: #e6e5c6;
-}
+
 
 #accueil {
 	background: url(images/accueil1.png) no-repeat center left;
 	background-size: cover;	
 }
+
+
+#piegess {
+	background: url(images/lespieges1.png) no-repeat center left;
+	background-size: cover;
+}
+
+.blabla {
+	background-color: #c7fae3;
+}
+
+
 
 
 
@@ -263,8 +261,6 @@ margin-bottom: 10px;
 }
 
 
-
-
 .hidden {
 	display:none;
 }
@@ -272,4 +268,12 @@ margin-bottom: 10px;
 .aside-picture {
 	width: auto;
 	height: 100%;
+}
+
+
+.navfooter {
+	display:inline-block;
+	margin-left: 40%;
+	padding: 2%;
+	text-align: center;
 }
