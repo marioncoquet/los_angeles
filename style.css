@@ -205,6 +205,7 @@ margin-bottom: 10px;
 
 
 
+
 #se-loger {
 	background: url(images/seloger1.png) no-repeat center left;
 	background-size: cover;
@@ -239,6 +240,10 @@ margin-bottom: 10px;
 #accueil {
 	background: url(images/accueil1.png) no-repeat center left;
 	background-size: cover;	
+}
+
+.innar {
+		background-color:#dfdec6;
 }
 
 
