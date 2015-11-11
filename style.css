@@ -25,6 +25,7 @@ header .background {
 }
 
 
+
 .nav {
 	display:inline-block;
 	margin-left: 4%;
@@ -129,7 +130,7 @@ span {
   margin: 0 0 2em 0;
 }
 .ff {
-  line-height: 0.5;
+  line-height: 0.5px;
   text-align: center;
 }
 .ff span {
